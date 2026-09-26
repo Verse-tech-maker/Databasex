@@ -1,0 +1,20 @@
+{
+  "keys": [
+    {
+      "key": "VR-129",
+      "expired": "2026-12-31",
+      "status": "active"
+    },
+    {
+      "key": "LDV-001",
+      "expired": "2026-06-30",
+      "status": "active"
+    },
+    {
+      "key": "XAT-777",
+      "expired": "2027-01-01",
+      "status": "active"
+    }
+  ],
+  "owner": "t.me/VerseNotDev"
+}
