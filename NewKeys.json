@@ -1,0 +1,13 @@
+{
+  "keys": [
+    "X8J2K2X7",
+    "E5F6G7H8",
+    "9I0J1K2L",
+    "M3N4O5P6",
+    "Q7R8S9T0"
+  ],
+  "users": {
+    "A1B2C3D4": { "name": "User One", "role": "vip", "created": "2025-01-01" },
+    "E5F6G7H8": { "name": "User Two", "role": "user", "created": "2025-01-02" }
+  }
+}
