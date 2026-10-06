@@ -3,7 +3,7 @@
     "id": "6821193890",
     "firstName": "〢 V E R S E T E C H",
     "username": null,
-    "language": null,
+    "language": "cn",
     "claimedBonus": 20,
     "claimedAt": "2026-10-06T10:49:38.990Z",
     "firstJoin": "2026-10-06T10:49:38.990Z",
@@ -11,6 +11,7 @@
     "totalBuild": 0,
     "totalPortfolio": 0,
     "totalDonation": 0,
-    "status": "active"
+    "status": "active",
+    "langUpdated": "2026-10-06T10:59:41.715Z"
   }
 ]
